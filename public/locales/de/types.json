@@ -1,0 +1,13 @@
+{
+    "Type": {
+        "Intern": "Intern",
+        "Filiale": "Filiale",
+        "Franchisee": "Franchise"
+    },
+
+    "Type_short": {
+        "Intern": "Intern",
+        "Filialmarkt": "FM",
+        "Franchisepartner": "FP"
+    }
+}

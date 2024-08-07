@@ -1,0 +1,18 @@
+{
+    "Test": {
+        "UNBEKANNT": "Unbekannt",
+        "ERFORDERLICH": "Erforderlich"
+    },
+
+    "ExtTest": {
+        "startTermin": "Start-Termin"
+    },
+
+    "Rechnungsart": {
+        "ANZAHLUNGSRECHNUNG": "Anzahlungsrechnung",
+        "SCHLUSSRECHNUNG": "Schlussrechnung",
+        "TEILRECHNUNG": "Teilrechnung",
+        "PAUSCHALE": "Pauschale",
+        "EINZELRECHNUNG": "Einzelrechnung"
+    }
+}
