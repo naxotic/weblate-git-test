@@ -11,5 +11,7 @@
     "mandatoryValidationNotice": "Bitte fülle alle Pflichtfelder aus, um fortzufahren. Die noch ausstehenden Felder sind rot und durch ein Sternchen (*) markiert.",
     "invalidDocumentMimeType_other": "{{count}} Dokumente wurden vom Upload ausgeschlossen, da diese die aktuellen MimeType Anforderungen nicht erfüllen",
     "invalidDocumentMimeType_one": "1 Dokument wurde vom Upload ausgeschlossen, da dieses die aktuellen MimeType Anforderungen nicht erfüllt",
-    "requiredDocumentTags": "Bitte füge einen oder mehrere Tags hinzu."
+    "requiredDocumentTags": "Bitte füge einen oder mehrere Tags hinzu.",
+    "foo": "bar",
+    "bar": ""
 }
